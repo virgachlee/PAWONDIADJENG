@@ -42,7 +42,7 @@ export const homeContent = {
         name: "Nasi Gudeg Yogya",
         price: "Rp 32.000",
         category: "Menu Utama",
-        image: "public/menu/gudeg.JPG",
+        image: "/menu/gudeg.JPG",
         description:
           "Nangka muda yang dimasak dengan santan dan rempah pilihan, disajikan bersama ayam, telur, dan sambal krecek.",
       },
@@ -51,7 +51,7 @@ export const homeContent = {
         name: "Ayam Kalasan",
         price: "Rp 35.000",
         category: "Menu Utama",
-        image: "public/menu/ayamkalasan.JPG",
+        image: "/menu/ayamkalasan.JPG",
         description:
           "Ayam berbumbu khas Jawa yang dimasak dengan rempah pilihan dan disajikan bersama sambal serta lalapan segar.",
       },
@@ -60,7 +60,7 @@ export const homeContent = {
         name: "Nasi Kuning",
         price: "Rp 28.000",
         category: "Menu Utama",
-        image: "public/menu/nasi kuning2.JPG",
+        image: "/menu/nasi kuning2.JPG",
         description:
           "Nasi berbumbu khas Nusantara yang disajikan dengan ayam, telur, sambal, dan taburan bawang goreng.",
       },
@@ -69,7 +69,7 @@ export const homeContent = {
         name: "Nasi Pecel",
         price: "Rp 30.000",
         category: "Menu Utama",
-        image: "public/menu/nasipecel2.JPG",
+        image: "/menu/nasipecel2.jpg",
         description:
           "Perpaduan sayuran segar dan bumbu kacang khas yang menghadirkan cita rasa autentik dalam setiap suapan.",
       },
@@ -78,7 +78,7 @@ export const homeContent = {
         name: "Rawon Sapi",
         price: "Rp 40.000",
         category: "Menu Utama",
-        image: "public/menu/rawonsapi.JPG",
+        image: "/menu/rawonsapi.JPG",
         description:
           "Olahan daging sapi dengan kuah hangat dan aroma rempah yang kuat.",
       },
@@ -87,7 +87,7 @@ export const homeContent = {
         name: "Soto Lamongan",
         price: "Rp 20.000",
         category: "Menu Utama",
-        image: "public/menu/sotobanjar.JPG",
+        image: "/menu/sotobanjar.JPG",
         description:
           "Soto ayam khas Jawa Timur dengan kuah gurih dan taburan koya yang menambah cita rasa dalam setiap suapan.",
       },

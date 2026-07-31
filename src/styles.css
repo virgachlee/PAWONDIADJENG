@@ -1402,6 +1402,10 @@ textarea {
 }
 
 @media (max-width: 900px) {
+  .nuansa-grid {
+    grid-template-columns: 1fr;
+  }
+
   .nuansa-feature {
     border-left: none;
     border-top: 1px solid var(--border);

@@ -397,7 +397,7 @@ export const homeContent = {
   },
   reservation: {
     eyebrow: "05 - Reservasi",
-    heading: ["Reservasi gampang,", "lewat email", "atau WhatsApp."],
+    heading: ["Reservasi dengan mudah,", "lewat email", "atau WhatsApp."],
     body: "Pawon Diadjeng buka setiap hari kecuali Jumat, pukul 09.00 - 22.00 WIB. Isi form di samping buat reservasi lewat email, atau langsung chat WhatsApp kalau mau lebih cepat.",
     formTitle: "Reservasi Meja",
     confirmation: "Reservasi akan kami konfirmasi lewat email atau WhatsApp secepatnya.",
